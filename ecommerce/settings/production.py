@@ -57,7 +57,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # third party
     'storages',
-    'herokuapp',
+    'ecommercedemo',
 
     #our apps
     'accounts',
