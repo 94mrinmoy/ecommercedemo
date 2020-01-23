@@ -55,7 +55,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # third party
     'storages',
-    'ecommercedemo',
 
     #our apps
     'accounts',
